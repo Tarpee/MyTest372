@@ -48,6 +48,8 @@ namespace first {
 
 		void boof();
 
+
+
 		void noof(int& a);
 		void moof(int * a);
 
