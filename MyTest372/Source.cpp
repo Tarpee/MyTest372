@@ -142,8 +142,9 @@ int sume(int a, int b)
 
 
 int main()
-{
+{   //master change
 	//test
+	//test2
 
 	std::unique_ptr<Mars>mars(new Mars());
 	mars->qoof();
